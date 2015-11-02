@@ -1021,7 +1021,7 @@ aside .module .div {
     border: 2px solid #e2e2e2;
 	width: 200px;
 	overflow: hidden;
-	height: 29px;
+	height: 35px;
 }
 .manf-select select {
 	background: transparent;
@@ -1031,7 +1031,8 @@ aside .module .div {
     margin: 0;
     padding: 0;
 	-webkit-appearance: none;
-	width: 310px;
+	width: 200px;
+	margin-left:-2px;
 }
 .topsellers_topitem .img {
 	display: table-cell;
