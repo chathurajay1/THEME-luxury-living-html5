@@ -1031,6 +1031,7 @@ aside .module .div {
     margin: 0;
     padding: 0;
 	-webkit-appearance: none;
+	-moz-appearance: none;
 	width: 200px;
 	margin-left:-2px;
 }
